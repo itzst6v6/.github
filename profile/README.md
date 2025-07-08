@@ -50,7 +50,7 @@ I’m a passionate UI/UX designer and developer with a strong creative vision fo
 
 #### 🚀 Tools & Platforms
 <p>
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+    <img src="https://img.shields.io/badge/Windsurf%20IDE-2E8B57?style=for-the-badge&logo=code&logoColor=white" alt="Windsurf IDE"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </p>
