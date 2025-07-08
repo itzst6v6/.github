@@ -1,25 +1,22 @@
+<div align="center">
+  
 # Hi there, I'm stevexinpa 👋
 
-<p align="center">
-  <a href="https://github.com/itzst6v6">
-    <img src="https://i.imgur.com/kYf8bHq.png" alt="stevexinpa - UI Designer & Developer" width="100%">
-  </a>
-</p>
+### UI Designer & Developer who loves building with AI tools.
+*Crafting Intuitive Digital Experiences for Gaming & Community Platforms.*
 
-<h2 align="center">UI Designer & Developer</h2>
-<p align="center">
-  <i>Crafting Intuitive Digital Experiences for Gaming & Community Platforms.</i>
-</p>
+</div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I’m a passionate UI/UX designer and developer with a strong creative vision and a deep interest in interactive digital experiences. I specialize in creating clean, intuitive, and functional user interfaces, particularly for gaming and community platforms. My work involves blending design and development to build comprehensive tools, launchers, and web-based ecosystems.
+I’m a passionate UI/UX designer and developer with a strong creative vision for interactive digital experiences. I specialize in creating clean, intuitive, and functional user interfaces for gaming and community platforms.
 
 - 🔭 I’m currently leading the development of the **Blockman Launcher** at the **Spargat Group**.
-- 🌱 I’m exploring launcher optimization and using AI tools to enhance my workflows.
-- 🎨 My creative side-interests include pixel art, emoji design, and web aesthetics.
+- 🤖 I actively use AI tools like **Gemini, Claude, and ChatGPT** to accelerate my development workflow.
+- ❤️ I have a special passion for **block-based programming** and visual tools like **Scratch**.
+- 🏄‍♂️ When I'm not coding, you can find me windsurfing!
 
 ---
 
@@ -31,7 +28,6 @@ I’m a passionate UI/UX designer and developer with a strong creative vision an
     <img src="https://img.shields.io/badge/Photopea-36a87e?style=for-the-badge&logo=photopea&logoColor=white" alt="Photopea"/>
     <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
     <img src="https://img.shields.io/badge/UI/UX_Design-a371f7?style=for-the-badge" alt="UI/UX Design"/>
-    <img src="https://img.shields.io/badge/Pixel_Art-388bfd?style=for-the-badge" alt="Pixel Art"/>
 </p>
 
 #### 💻 Development
@@ -42,6 +38,14 @@ I’m a passionate UI/UX designer and developer with a strong creative vision an
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
     <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" alt="Electron"/>
+    <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white" alt="Scratch"/>
+</p>
+
+#### 🤖 AI & LLM Tools
+<p>
+    <img src="https://img.shields.io/badge/ChatGPT-44A59D?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+    <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini"/>
+    <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge" alt="Anthropic Claude"/>
 </p>
 
 #### 🚀 Tools & Platforms
